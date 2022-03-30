@@ -1,0 +1,11 @@
+[package]
+name = "qle"
+version = "0.1.0"
+authors = ["Blue Cheetah <cheetah001gamer@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+aes = "0.8.1"
+cbc = { version = "0.1.2", features = ["std"] }
+clap = { version = "3.1.6", features = ["derive"] }
+hex-literal = "0.3.4"
