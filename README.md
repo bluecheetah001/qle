@@ -3,8 +3,6 @@
 A basic CLI to convert between .qbl and .xml files
 to poke around with how Qbeh-1: The Atlas Cube's custom levels are stored
 
-## Download
-
 ## Usage
 
 `qle <INPUT>`
