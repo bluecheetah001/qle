@@ -2,7 +2,9 @@
 name = "qle"
 version = "0.1.0"
 authors = ["Blue Cheetah <cheetah001gamer@gmail.com>"]
+license = "MIT"
 edition = "2021"
+publish = false
 
 [dependencies]
 aes = "0.8.1"
